@@ -1,1 +1,3 @@
 # sql-queries
+This set of SQL queries is designed to analyze customer orders and product data from a simple e-commerce-style database. It includes queries using aggregate functions like SUM, COUNT, and AVG to calculate metrics such as total sales per product, order counts by category, and top-selling items. It also demonstrates the use of subqueries to extract advanced insights, such as identifying high-value customers, filtering orders above average quantities, or retrieving details based on nested conditions. These queries are great for practicing GROUP BY,views, JOIN, and subquery logic in MySQL.
+
